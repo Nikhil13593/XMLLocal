@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IndianActors>
+    <Bollywood>
+        <Actors>Salman Khan</Actors>
+        <Actors>Amir Khan</Actors>
+        <Actors>shahrukh khan</Actors>
+        <Actors>Akshay Kumar</Actors>
+    </Bollywood>
+    <Tollywood>
+        <Actors>Mahesh Babu</Actors>
+        <Actors>Prabhas</Actors>
+        <Actors>NTR Jr.</Actors>
+        <Actors>Vijay Devarakonda</Actors>
+        <Actors>Nani</Actors>
+        <Actors>Rana</Actors>
+        <Actors>Akhil</Actors>
+        <Actors>Varun Tej</Actors>
+    </Tollywood>
+    <Hollywood>
+        <Actors>Robert Downey Jr.</Actors>
+        <Actors>Chris Evans</Actors>
+        <Actors>Chris Hemsworth</Actors>
+        <Actors>Mark Ruffalo</Actors>
+    </Hollywood>
+    <Kollywood>
+        <Actors>Ajith Kumar</Actors>
+        <Actors>Vijay</Actors>
+        <Actors>Surya</Actors>
+        <Actors>Dhanush</Actors>
+    </Kollywood>
+</IndianActors>
+
